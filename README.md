@@ -44,6 +44,6 @@ To run this project, you'll need Python and the required libraries. Follow these
 ##  Acknowledgements:-
     OpenCV for computer vision functionalities.
     NumPy for numerical operations.
-    Matplotlib for plotting (if used for visualizations).
+    Matplotlib for plotting.
 
 
